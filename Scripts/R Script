@@ -8,3 +8,14 @@ Datos <- data.frame(
 
 # Prueba t de muestras independientes
 t.test(weight ~ smoke, data = Datos)
+
+# Boxplot
+library(tidyverse)
+ggplot(Datos, aes(x = smoke, y = weight, fill = smoke)) +
+  geom_boxplot() +
+  labs(
+    title = "Peso del bebé según hábito de fumar de la madre",
+    x = "Hábito de fumar",
+    y = "Peso del bebé"
+  ) +
+  theme_minimal()
