@@ -1,1 +1,10 @@
+# Cargar datos
+Tabla <- read.csv("births.csv")
 
+# Seleccionar variables (nombres simples)
+Datos <- data.frame(
+  weight = Tabla$weight,
+  smoke = Tabla$smoke)
+
+# Prueba t de muestras independientes
+t.test(weight ~ smoke, data = Datos)
