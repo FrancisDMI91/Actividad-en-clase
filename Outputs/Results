@@ -1,0 +1,10 @@
+Welch Two Sample t-test
+
+data:  weight by smoke
+t = 1.4967, df = 89.277, p-value = 0.138
+alternative hypothesis: true difference in means between group nonsmoker and group smoker is not equal to 0
+95 percent confidence interval:
+ -0.1311663  0.9321663
+sample estimates:
+mean in group nonsmoker    mean in group smoker 
+                 7.1795                  6.7790 
