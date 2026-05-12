@@ -1,7 +1,7 @@
 # Cargar datos
 Tabla <- read.csv("births.csv")
 
-# Seleccionar variables (nombres simples)
+# Seleccionar variables a analizar
 Datos <- data.frame(
   weight = Tabla$weight,
   smoke = Tabla$smoke)
