@@ -10,13 +10,13 @@ Este proyecto tiene como objetivo aplicar análisis estadístico reproducible ut
 Se trabajó con una base de datos obtenida de OpenIntro para analizar si existe una diferencia significativa en el peso de recién nacidos según el hábito de fumar de la madre.
 
 # Pregunta de investigación
-¿Existe una diferencia significativa en el peso promedio de los bebés entre madres fumadoras y no fumadoras?
+¿Existe una diferencia significativa en el peso promedio de los bebés recien nacidos entre madres fumadoras y no fumadoras?
 
 # Hipótesis estadísticas
 ## Hipótesis nula (H₀)
-No existe diferencia significativa en el peso promedio de los bebés nacidos entre madres fumadoras y no fumadoras.
+No existe diferencia significativa en el peso promedio de los bebés recien nacidos entre madres fumadoras y no fumadoras.
 ## Hipótesis alternativa (H₁)
-Si existe diferencia significativa en el peso promedio de los bebés nacidos entre madres fumadoras y no fumadoras.
+Si existe diferencia significativa en el peso promedio de los bebés recien nacidos entre madres fumadoras y no fumadoras.
 
 # Datos
 ## Fuente
