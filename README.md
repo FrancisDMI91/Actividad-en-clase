@@ -7,7 +7,7 @@
  Este repositorio está organizado de manera que cualquier investigador  pueda replicar los análisis realizados. A continuación, se detalla el contenido de cada directorio mostrado en el repositorio:
 
  Datos:
- Contiene los archivos de datos crudos o procesados necesarios para realizar los análisis
+ Contiene los archivos de datos crudos o procesados necesarios para realizar los análisis, ( archivo Births) que contiene la tabla de datos
  
  Outputs (Salidas):
  Carpeta donde se guardan automaticamente los resultados generados por los scripts, tales como gráficas, en este caso diagrama de cajas (Boxplot)
