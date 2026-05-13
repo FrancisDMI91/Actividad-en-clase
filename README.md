@@ -22,7 +22,7 @@ Si existe diferencia significativa en el peso promedio de los bebés recien naci
 ## Fuente
 Base de datos obtenida de OpenIntro.
 ## Tipo de t test utilizada
-Se utilizó una prueba t de dos muestras independientes porque se compararon los promedios de peso entre dos grupos distintos: madres fumadoras y no fumadoras. 
+Se utilizó una prueba t de dos muestras independientes ( bilateral) porque se compararon los promedios de peso entre dos grupos distintos: madres fumadoras y no fumadoras. 
 
 ## Resultados
 Se acepta la hipótesis nula, es decir, no hay evidencia estadísticamente significativa de una diferencia en el peso promedio de los bebés entre madres fumadoras y no fumadoras.
