@@ -3,6 +3,11 @@
 #Integrantes
 - Nombre Estudiante 1: Francis Moncayo.
 - Nombre Estudiante 2: Shirley Quisilema.
+# Estructura del proyecto 
+ Este repositorio está organizado de manera que cualquier investigador  pueda replicar los análisis realizados. A continuación, se detalla el contenido de cada directorio mostrado en el repositorio:
+ # Datos
+ Contiene los archivos de datos crudos o procesados necesarios para realizar los análisis
+ 
 
 # Introducción
 
