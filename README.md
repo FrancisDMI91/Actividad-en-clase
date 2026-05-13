@@ -11,6 +11,15 @@
  
  Outputs (Salidas):
  Carpeta donde se guardan automaticamente los resultados generados por los scripts, tales como gráficas, en este caso diagrama de cajas (Boxplot)
+
+ Scrpts:
+ En esta sección se enlista la lista de comandos en R, utilizados 
+
+ License:
+ Se añadio la licencia MIT
+
+ Readme:
+ Archivo sencillo donde se detalla todo el proceso que sigui el estudio 
  
 
 # Introducción
