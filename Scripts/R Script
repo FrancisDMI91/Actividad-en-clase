@@ -19,3 +19,19 @@ ggplot(Datos, aes(x = smoke, y = weight, fill = smoke)) +
     y = "Peso del bebé"
   ) +
   theme_minimal()
+
+# Violin plot
+ggplot(Datos, aes(x = smoke, y = weight, fill = smoke)) +
+  geom_violin(trim = FALSE) +
+stat_summary(
+    fun = mean,
+    geom = "crossbar",
+    size = 0.5,
+    color = "black"
+  ) +
+  labs(
+    title = "Peso del bebé según hábito de fumar de la madre",
+    x = "Hábito de fumar",
+    y = "Peso del bebé"
+  ) +
+  theme_minimal()
